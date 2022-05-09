@@ -35,4 +35,5 @@ Step-3: run the project
 
 # Homepage will look like
 
-![image](https://user-images.githubusercontent.com/66215313/167353557-1bf9063f-ab9b-435f-b661-a408480c85ac.png)
+![image](https://user-images.githubusercontent.com/66215313/167355160-d9544928-2c65-4012-897a-fdf9fd23b24a.png)
+

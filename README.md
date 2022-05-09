@@ -22,3 +22,17 @@ Install these in your system before you try to run this repositories
 # To run this repositories in your local computer
 
 Step-1: clone this repository in your laptop
+
+``` git clone https://github.com/prateeksha9/imageinMongoDB.git```
+
+Step-2: install all the dependencies in your project
+
+``` npm install ```
+
+Step-3: run the project
+
+``` nodemon app.js ```
+
+# Homepage will look like
+
+![image](https://user-images.githubusercontent.com/66215313/167353557-1bf9063f-ab9b-435f-b661-a408480c85ac.png)

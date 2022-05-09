@@ -33,7 +33,7 @@ Step-3: run the project
 
 ``` nodemon app.js ```
 
-# Homepage will look like
+# Homepage
 
 ![image](https://user-images.githubusercontent.com/66215313/167355160-d9544928-2c65-4012-897a-fdf9fd23b24a.png)
 
